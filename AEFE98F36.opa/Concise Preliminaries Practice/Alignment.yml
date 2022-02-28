@@ -1,0 +1,19 @@
+segment_sources:
+  P2A0206A4:
+    type: origin_type
+    relation: translation
+    language: en
+  P4A48C9DC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c47792ddecdc448885e409e4b75e26fa:
+    P2A0206A4: 5efc554dfaab41dba73b64e9fc0f2c04
+    P4A48C9DC: a2815ae1efb14127bf7e545a269a4ac0
+  7812503d6a5d4676b9ed2da89ff16536:
+    P2A0206A4: e3eae99a83104b36a2c70ac90a039d84
+    P4A48C9DC: 47059d25871d4d669879b8ce2e5630ba
+  bb0a91aa1da54622903894f333f0c5af:
+    P2A0206A4: 5a543bcd611547e18e9e6345a4b19e95
+    P4A48C9DC: cd6aef2f4afc45489e444d31d9f0cd77
